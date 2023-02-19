@@ -2,7 +2,11 @@ team: Panthers
 
 manager: Sebastian
 
+<<<<<<< HEAD
 coach : joyeonghn
+=======
+coach: Teddyss
+>>>>>>> add-coach
 
 members:
 - Violet
